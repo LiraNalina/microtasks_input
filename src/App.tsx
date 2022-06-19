@@ -11,8 +11,6 @@ function App() {
     { goods: '' }
   ])
 
-  /* let [title, setTitle] = useState('') */
-
   const addGoods = (title: string) => {
     let newItem = { goods: title }
     setGoods([newItem, ...goods])
