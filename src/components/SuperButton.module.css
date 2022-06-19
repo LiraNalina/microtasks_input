@@ -1,0 +1,9 @@
+.default {
+background-color: rgb(160, 160, 226);
+margin: 5px;
+}
+
+.red {
+    background: lightcoral
+}
+
